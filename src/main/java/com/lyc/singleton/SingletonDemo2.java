@@ -1,4 +1,4 @@
-package com.lyc.singleton1;
+package com.lyc.singleton;
 
 /**
  * 懒汉式单例模式
