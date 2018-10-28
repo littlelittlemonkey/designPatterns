@@ -2,6 +2,7 @@ package com.lyc.singleton;
 
 /**
  * 懒汉式单例模式
+ * 需要加synchronized发放同步，效率低
  */
 public class SingletonDemo2 {
 
