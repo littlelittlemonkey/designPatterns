@@ -1,7 +1,7 @@
 package com.lyc.singleton;
 
 /**
- * 测试饿汉式单例模式
+ * 饿汉式单例模式
  * 缺点类加载时就创建对象，可能并没有用到，浪费内存
  */
 public class SingletonDemo1 {
