@@ -1,4 +1,4 @@
-package com.lyc.singleton;
+package com.lyc.singleton1;
 
 /**
  * 测试饿汉式单例模式
